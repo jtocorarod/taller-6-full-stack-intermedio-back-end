@@ -10,8 +10,8 @@
 <body>
     <h1>Calculadora - Switch</h1>
     <hr>
-    <?php include "./view/components/form.php"; ?>
-    <?php include "./view/components/result.php"; ?>
+    <?php include "view/components/form.php"; ?>
+    <?php include "view/components/result.php"; ?>
     
 </body>
 </html>
